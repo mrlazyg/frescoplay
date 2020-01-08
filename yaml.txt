@@ -1,0 +1,44 @@
+Which of the following are valid information models?
+R.- All
+
+What is the full form of YAML?
+R.- Yaml Ain t markup language � 
+
+Which of the following is considered as syntax primitive in YAML?
+R.- production parameters and naming conventions
+
+Which of the following extensions are used to save a file in YAML?
+R.- yaml and yml
+
+Which of the following can be defined as a single data structure?
+R.- Node
+
+In how many types YAML file is formatted?
+R.- 3
+
+YAML is a superset of JSON 
+R.- T
+
+The characters which have special semnatics are called
+R.- Indicators
+
+which of the following nodes are used in flow style of YAML file? Mal en final
+R.- Alias and Empty
+
+Which of the following flow scalar styles can be used in YAML file?
+R.- All
+
+Anchor is represented by the symbol
+R.- &
+
+Which of the following tag handles are used in YAML file?
+R.- all
+
+Which of the following is defined as giving instructions to YAML procesor?
+R.- Directive
+
+Which of the following is defined as sequence of bytes?
+R.- Well-formed stream
+
+Which of the following document is known as clean document?
+R.- Bare document
