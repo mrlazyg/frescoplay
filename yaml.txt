@@ -1,15 +1,42 @@
 
+List members are denoted by
+Ans - '-'
+
+Which of the following is used to represent dictionary data structure or hash table?
+Ans - Mapping
+
+Multiple documents with single streams are separated with
+Ans - '---'
+
+Which of the following is the default schema considered by YAML processor?
+Ans - 
+
+Which of the following is the shortcut key for comments in YAML?
+Ans - CTRL+Q
+
+The tags which include decimal and exponential values are called
+Ans - Floating tag
+
+Chomping is interpreted in whiich of the following form?
+Ans - All
+
+Flow collection entries are terminated by
+Ans - ','
+
+Which of the following types are used for YAML tag repository?
+Ans - All
+
 Which of the following schemas can be used in YAML?
 Ans - All
 
 Which of the follwoing symbol is used to represent literal style?
-Ans - |
+Ans - '|'
 
 JSON schema is an extension of core schema
 Ans - False
 
 Which of the following block nodes are valid?
-Ans - Block Collection
+Ans - Block Collection/ Scalar
 
 Which of the following are valid information models?
 R.- All
@@ -30,7 +57,7 @@ In how many types YAML file is formatted?
 R.- 3
 
 YAML is a superset of JSON 
-R.- T
+R.- True
 
 The characters which have special semnatics are called
 R.- Indicators
@@ -42,7 +69,7 @@ Which of the following flow scalar styles can be used in YAML file?
 R.- All
 
 Anchor is represented by the symbol
-R.- &
+R.- '&'
 
 Which of the following tag handles are used in YAML file?
 R.- all
