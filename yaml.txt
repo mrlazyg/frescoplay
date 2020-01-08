@@ -1,8 +1,21 @@
+
+Which of the following schemas can be used in YAML?
+Ans - All
+
+Which of the follwoing symbol is used to represent literal style?
+Ans - |
+
+JSON schema is an extension of core schema
+Ans - False
+
+Which of the following block nodes are valid?
+Ans - Block Collection
+
 Which of the following are valid information models?
 R.- All
 
 What is the full form of YAML?
-R.- Yaml Ain t markup language � 
+R.- Yaml Ain t markup language
 
 Which of the following is considered as syntax primitive in YAML?
 R.- production parameters and naming conventions
@@ -22,7 +35,7 @@ R.- T
 The characters which have special semnatics are called
 R.- Indicators
 
-which of the following nodes are used in flow style of YAML file? Mal en final
+which of the following nodes are used in flow style of YAML file?
 R.- Alias and Empty
 
 Which of the following flow scalar styles can be used in YAML file?
