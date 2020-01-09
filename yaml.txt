@@ -1,6 +1,14 @@
+Which of the following symbol is representd by aliasing?
+Ans - '*'
+
+Block sequences are denoted by which of the following indicator
+Ans - '-'
+
+Which of the following is inverse process of presentation
+Ans - Parsing
 
 Flow content begins with
-Ans - '!' or '='
+Ans - '{' or '['
 
 List members are denoted by
 Ans - '-'
